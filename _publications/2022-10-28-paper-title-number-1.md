@@ -14,4 +14,5 @@ Abstract: Agricultural greenhouse production has to require a stable and accepta
 
 Recommended citation:
 
-G. Liu, K. Zhong, H. Li et al., A state of art review on time series forecasting with machine learning for environmental parameters in agricultural greenhouses, Information Processing in Agriculture, https://doi.org/10.1016/j.inpa.2022.10.005
+
+G. Liu, K. Zhong, H. Li et al., A state of art review on time series forecasting with machine learning for environmental parameters in agricultural greenhouses, Information Processing in Agriculture, https://doi.org/10.1016/j.inpa.2022.10.005\\
