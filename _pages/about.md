@@ -13,4 +13,4 @@ I'm very fortunate to be advised by [Prof. Wang](https://scholar.google.com/cita
 
 You can find my CV here: [Keyang Zhong's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Github](https://github.com/Zhongkeyang)/[Wechat](../images/wechat.jpg)/[CSDN](https://blog.csdn.net/weixin_51871037?type=blog)
+[Emial](zhongky859@gmail.com) / [Github](https://github.com/Zhongkeyang) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/weixin_51871037?type=blog)
