@@ -14,4 +14,5 @@ Summary: Environmental time series modeling of recirculating aquaculture systems
 
 Recommended citation: 
 
-Liu,G.,Jiang,Y.,Zhong,K.,Yang,Y.,Wang,Y.,2023. A time series model adapted to multiple environments for recirculating aquaculture systems. Aquaculture 567,739284, https://doi.org/10.1016/j.aquaculture.2023.739284
+
+Liu,G.,Jiang,Y.,Zhong,K.,Yang,Y.,Wang,Y.,2023. A time series model adapted to multiple environments for recirculating aquaculture systems. Aquaculture 567,739284, https://doi.org/10.1016/j.aquaculture.2023.739284\\
