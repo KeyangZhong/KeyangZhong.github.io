@@ -1,6 +1,5 @@
 ---
-title: "A state of art review on time series forecasting with
-machine learning for environmental parameters in agricultural greenhouse"
+title: "A state of art review on time series forecasting with machine learning for environmental parameters in agricultural greenhouse"
 collection: publications
 permalink: /publication/2022-10-28-paper-title-number-1
 excerpt: 'Horticultural greenhouse environment; Time series algorithms; Prediction; Deep neural networks'
