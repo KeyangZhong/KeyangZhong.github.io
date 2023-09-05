@@ -1,4 +1,13 @@
+---
+title: 'Naive Bayes Classifier'
+date: 2023-09-05
+permalink: /posts/2023/09/Naive Bayes Classifier/
+tags:
+  - Machine Learning
+  - Machine Learning Models
+---
 **朴素贝叶斯** **Naïve Bayes** 一种基于概率的生成模型。
+
 ## 全概率公式
 其含义是如果有一些互斥的事件$B_1, ... ,B_n$，它们的并集为全集，则任何事件A发生的概率可以拆分为每一个$A\cap B_i $的概率之和。
 $$

@@ -1,4 +1,12 @@
-
+---
+title: 'Basic knowledge of machine learning'
+date: 2023-09-04
+permalink: /posts/2023/09/Basic knowledge of machine learning/
+tags:
+  - Machine Learning
+  - Basic Knowledge
+---
+关于机器学习的基础知识，包括部分概率论的知识点。但部分是关于机器学习模型外的知识，如距离计算，基本概念，机器学习准则等。
 ## 距离计算
 ### 欧式距离（Euclidean distance）
 $$

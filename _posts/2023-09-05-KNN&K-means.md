@@ -1,3 +1,14 @@
+---
+title: 'KNN&K-means'
+date: 2023-09-05
+permalink: /posts/2023/09/Decision Tree/
+tags:
+  - Machine Learning
+  - Machine Learning Models
+---
+描述对比两种机器学习模型KNN和K-means。
+
+
 参考链接：\
 [机器学习中 K近邻法(knn)与k-means的区别 - Niucas_MAO - 博客园 (cnblogs.com)](https://www.cnblogs.com/PiPifamily/p/8520405.html)\
 [机器学习实战教程（一）：K-近邻（KNN）算法（史诗级干货长文） (cuijiahua.com)](https://cuijiahua.com/blog/2017/11/ml_1_knn.html)

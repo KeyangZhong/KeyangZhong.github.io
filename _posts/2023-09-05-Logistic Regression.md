@@ -1,3 +1,13 @@
+---
+title: 'Logistic Regresssion'
+date: 2023-09-05
+permalink: /posts/2023/09/Logistic Regresssion/
+tags:
+  - Machine Learning
+  - Machine Learning Models
+---
+简单逻辑斯蒂回归知识。
+
 ## 逻辑斯谛回归（Logistic Regression）
 **线性回归处理回归问题；逻辑斯谛回归处理分类问题**
 

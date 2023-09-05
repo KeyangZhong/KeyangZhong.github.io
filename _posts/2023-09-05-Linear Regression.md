@@ -1,4 +1,13 @@
+---
+title: 'Linear Regresssion'
+date: 2023-09-05
+permalink: /posts/2023/09/Linear Regresssion/
+tags:
+  - Machine Learning
+  - Machine Learning Models
+---
 线性回处理的是回归问题，逻辑斯谛回归处理的是分类问题。
+
 ## 线性回归
 线性回归试图学得一个线性模型以尽可能准确地预测实值输出标记：
 $$

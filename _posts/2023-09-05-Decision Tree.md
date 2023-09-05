@@ -1,3 +1,12 @@
+---
+title: 'Decision Tree'
+date: 2023-09-05
+permalink: /posts/2023/09/Decision Tree/
+tags:
+  - Machine Learning
+  - Machine Learning Models
+---
+机器学习中的决策树模型和信息熵等知识。
 ## 信息熵
 信息熵是度量样本集合纯度最常用的一种指标，假定样本集合$D$中第$K$类样本所占的比例为$p_k$，则样本集合$D$的信息熵为：
 $$
