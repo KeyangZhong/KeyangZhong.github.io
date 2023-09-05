@@ -1,7 +1,7 @@
 ---
 title: 'KNN&K-means'
 date: 2023-09-05
-permalink: /posts/2023/09/Decision Tree/
+permalink: /posts/2023/09/KNN&K-means/
 tags:
   - Machine Learning
   - Machine Learning Models
