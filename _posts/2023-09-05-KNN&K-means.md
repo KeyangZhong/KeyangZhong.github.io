@@ -5,6 +5,8 @@ permalink: /posts/2023/09/KNN&K-means/
 tags:
   - Machine Learning
   - Machine Learning Models
+  - Unsupervised Learning
+  - Supervised Learning
 ---
 描述对比两种机器学习模型KNN和K-means。
 
